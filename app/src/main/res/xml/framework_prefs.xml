@@ -2,6 +2,10 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
+    <PreferenceCategory android:title="AOD brightness " />
+
+    <com.wubydax.romcontrol.v2.prefs.MySeekBarPreference android:title="AOD brightness" android:key="aod_brightness" android:defaultValue="17" app:minValue="0" app:maxValue="255" app:rebootDevice="true" />
+
     <PreferenceScreen
         android:title="Power Extended Menu"
         android:summary="other options in power extended menu">
