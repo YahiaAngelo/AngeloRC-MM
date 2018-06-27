@@ -42,13 +42,10 @@
     <string-array name="nav_menu_prefs_titles">
         <item>@string/systemui_prefs</item>
         <item>@string/notification_panel_prefs</item>
-        <item>@string/phone_prefs</item>
         <item>@string/framework_prefs</item>
-        <item>@string/launcher_prefs</item>
-        <item>@string/lockscreen_prefs</item>
-        <item>@string/sound_prefs</item>
         <item>@string/other_prefs</item>
         <item>@string/app_link_prefs</item>
+        <item>@string/rom_colors</item>
     </string-array>
 
 
@@ -59,12 +56,9 @@
     <string-array name="nav_menu_xml_file_names" translatable="false">
         <item>ui_prefs</item>
         <item>notification_panel_prefs</item>
-        <item>phone_prefs</item>
         <item>framework_prefs</item>
-        <item>launcher_prefs</item>
-        <item>lockscreen_prefs</item>
-        <item>sound_prefs</item>
         <item>other_prefs</item>
         <item>app_link_prefs</item>
+        <item>rom_colors</item>
     </string-array>
 </resources>

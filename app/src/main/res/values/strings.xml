@@ -68,6 +68,7 @@
     <string name="reboot_now_dialog_button">reboot now</string>
     <string name="imminent_reboot_warning">Your device will reboot IMMEDIATELY upon script completion!!!</string>
     <string name="torchlight_timeout_title">Torch light time-out</string>
+    <string name="rom_colors">Rom Colors</string>
 
     <string-array name="double_home_entries">
         <item>Screen OFF</item>
